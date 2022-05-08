@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElayDadon
 - 👀 I’m interested in cyber security and vulnerabilities and algorithem development
 - 🌱 I’m currently learning C java and python
-- 💞️ I’m looking to collaborate on web development projects 
+- 💞️ I’m looking to collaborate on Cyber Security projects 
 - 📫 How to reach me: reach me via email: elaydad@gmail.com
 
 <!---
