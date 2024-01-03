@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ElayDadon<br>👀 I’m interested in cyber security and vulnerabilities and algorithem development<br>🌱 I’m currently learning C/C++ java/C# and python<br>💞️
+👋 Hi, I’m @ElayDadon<br>👀 I’m interested in cyber security and vulnerabilities and algorithem development<br>🌱 I’m currently learning C/C++ java/C# and python<br>
 
 
 # 💻 Tech Stack:
